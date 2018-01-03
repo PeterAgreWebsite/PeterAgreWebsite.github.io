@@ -1,0 +1,68 @@
+.background{
+	background-color:#ffffff;
+	text-align:center;
+}
+.foreground{
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top:50px;
+	text-align: left;
+}
+
+.heading{
+	border-bottom: 1px solid black;
+
+}
+
+h1.title{
+	text-align:center;
+	text-shadow:2px 2px #888888;
+	word-spacing: 10px;
+}
+
+h6.title{
+	text-align:center;
+	text-decoration: ;
+}
+
+.foreground{
+	padding-left:500px;
+	padding-right:50px;
+	margin-left: 50px;
+	text-indent: 50px;
+}
+
+.articletitle{
+	text-align:center;
+}
+
+.sidebar{
+	float: left;
+	border-right: 2px solid black;
+}
+
+#image1{
+	float: right;
+	width:200px;
+	height:300px;
+}
+#image2{
+	float: left;
+}
+
+img{
+	padding-left:10px;
+	padding-top:10px;
+	padding-right:10px;
+	padding-bottom: 10px;
+	
+}
+
+.article{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.citations{
+	background-color:#eeeeee;
+}
